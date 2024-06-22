@@ -73,7 +73,7 @@ npm start
 
 #### Screenshots
 
-![welcome-page](<Screenshot 2024-04-09 at 20.57.47.png>)
+![welcome-page](<Screenshot 2024-06-22 at 18.13.26.png>)
 
 ![products-page](<Screenshot 2024-06-22 at 16.28.29.png>)
 
@@ -83,4 +83,4 @@ npm start
 
 <hr>
 
-Live demo : <https://stupendous-taiyaki-5ec455.netlify.app/>
+Live demo : <https://beautybeat.netlify.app/>
