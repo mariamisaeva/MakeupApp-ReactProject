@@ -1,0 +1,49 @@
+.home {
+  background-image: url('https://img.freepik.com/free-photo/blusher-brushes-scattering-pink-powder-black-background_23-2148208949.jpg?t=st=1719069178~exp=1719072778~hmac=d7ea4dcbb2f74506307783d253217e1eb09a9d497cc79c2bc5588ff8add24fa4&w=1380');
+  /* url('https://img.freepik.com/free-photo/makeup-brushes-with-pink-powder-splash_23-2148208954.jpg?t=st=1712676066~exp=1712679666~hmac=32803b6dfe1d82b6fa795c60b3c861414f7170a51ab35cf9b74ec115f500ce84&w=1380'); */
+  /*url('https://img.freepik.com/free-photo/makeup-brushes-with-pink-powder-splash_23-2148208954.jpg?w=1480&t=st=1712241524~exp=1712242124~hmac=3a1b25b7d5f0772ac92017e24e380be2e0c69a27c55f4f4970955cc83aa27507');*/
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  font-size: calc(10px + 2vmin);
+  color: white;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.home h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.home p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+.home .shopNow {
+  background-color: #f145d7ac;
+  color: white;
+  border: none;
+  padding: 0.7rem 1.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin-top: 2rem;
+}
+
+.shopNow a {
+  text-decoration: none;
+  color: antiquewhite;
+}
+
+.home .shopNow:hover {
+  background-color: #c92cd9;
+  transform: scale(1.1);
+}

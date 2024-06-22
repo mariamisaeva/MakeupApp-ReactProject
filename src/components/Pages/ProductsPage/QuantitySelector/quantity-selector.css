@@ -1,0 +1,26 @@
+.quantity-selector {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.quantity-selector button {
+  background-color: #20ae48ef;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.quantity-selector button:hover {
+  background-color: #c700e2;
+}
+
+.quantity-selector span {
+  margin: 0 10px;
+  font-size: 1rem;
+}
